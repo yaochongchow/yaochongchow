@@ -38,7 +38,7 @@ With a deep passion for **AI-enhanced interfaces** and **human-centered systems*
 
 ## 📫 Let's Connect
 
-- 📧 charlesc@neuroleapmail.com  
+- 📧 yaochong.chow.20@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
 
 
