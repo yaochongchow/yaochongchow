@@ -25,7 +25,7 @@ With a deep passion for **AI-enhanced interfaces** and **human-centered systems*
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Languages  
-`Python` `C` `C++` `Java` `JavaScript` `TypeScript` `Swift` `SQL` `HTML/CSS`
+`Python` `C` `C++` `Java` `JavaScript` `TypeScript` `Go` `SQL` `HTML/CSS`
 
 ### ⚙️ Frameworks  
 `React.js` · `Node.js` · `Express.js` · `Django` · `DRF` · `Spring Boot`
