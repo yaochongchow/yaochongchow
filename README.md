@@ -82,7 +82,7 @@ Developed a ROS2-based robotics system for navigation and task execution in simu
 ---
 
 ### Traffic Monitoring System  
-https://github.com/yaochongchow/traffic-monitor  
+https://github.com/yaochongchow/cuda-traffic-analytics-pipeline
 
 Built a real-time video processing pipeline for traffic analysis.
 
